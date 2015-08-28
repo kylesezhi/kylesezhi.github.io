@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Interly Language Services</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <description>Interly Language Services offers quality translations, copy-editing, and consulting in a variety of languages.</description>
     <link>https://example.github.io/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 28 Aug 2015 14:22:31 +0900</pubDate>
-    <lastBuildDate>Fri, 28 Aug 2015 14:22:31 +0900</lastBuildDate>
+    <pubDate>Fri, 28 Aug 2015 14:28:21 +0900</pubDate>
+    <lastBuildDate>Fri, 28 Aug 2015 14:28:21 +0900</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
