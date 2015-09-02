@@ -1,0 +1,28 @@
+#F0FAF3
+#171745
+#98A9DD
+#E0700A
+
+
+based on: http://themes.startbootstrap.com/spectrum-v1.2.0/sample-07-freelancer.html
+primary
+#f89406
+secondary
+#c67605
+secondary-dark
+#3E444D
+off white
+#F4F5F7
+
+
+default
+#fed136
+#fec503
+#333333
+#222222
+#F7F7F7
+
+navbar-nav
+80px high --> 60px
+
+Interly Logo becomes orange from white on click
