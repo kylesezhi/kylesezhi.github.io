@@ -4,7 +4,7 @@
 #E0700A
 
 
-based on: http://themes.startbootstrap.com/spectrum-v1.2.0/sample-07-freelancer.html
+http://themes.startbootstrap.com/spectrum-v1.2.0/sample-07-freelancer.html
 primary
 #f89406
 secondary
