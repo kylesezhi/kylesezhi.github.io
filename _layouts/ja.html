@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head_ja.html %}
+
+
+    <body id="page-top" class="index">
+
+    {% include header_ja.html %}
+    {% include services_ja.html %}
+    {% include about_ja.html %}
+    {% include pricing_ja.html %}
+    {% include team_ja.html %}
+
+    {% if site.contact == "static" %}
+    {% include contact_static_ja.html %}
+    {% else %}
+    {% include contact_ja.html %}
+    {% endif %}
+
+    {% include footer_ja.html %}
+    {% include modals_ja.html %}
+    {% include js_ja.html %}
+
+    </body>
+</html>
