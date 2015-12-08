@@ -874,6 +874,23 @@ body {
     webkit-tap-highlight-color: #f89406;
 }
 
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus {
+    color: white;
+    border-radius: 3px;
+    /*background-color:rgba(0, 0, 0, 0.5);*/
+    background-color:transparent;
+}
+
+#bs-example-navbar-collapse-1 > ul > li.dropdown.open > ul > li > a {
+    color: black;
+    text-transform: capitalize;
+}
+/*when you clik on the globe to close, it stays orange*/
+
+#bs-example-navbar-collapse-1 > ul > li.dropdown > a {
+    text-transform: capitalize;
+}
+
 /*
 * 	Owl Carousel Owl Demo Theme 
 *	v1.3.3

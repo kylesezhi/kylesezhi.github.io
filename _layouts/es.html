@@ -1,26 +1,26 @@
 <!DOCTYPE html>
 <html>
 
-  {% include head_es.html %}
+  {% include es_head.html %}
 
 
     <body id="page-top" class="index">
 
-    {% include header_es.html %}
-    {% include services_es.html %}
-    {% include about_es.html %}
-    {% include pricing_es.html %}
-    {% include team_es.html %}
+    {% include es_header.html %}
+    {% include es_services.html %}
+    {% include es_about.html %}
+    {% include es_pricing.html %}
+    {% include es_team.html %}
 
     {% if site.contact == "static" %}
-    {% include contact_static_es.html %}
+    {% include es_contact_static.html %}
     {% else %}
-    {% include contact_es.html %}
+    {% include es_contact.html %}
     {% endif %}
 
-    {% include footer_es.html %}
-    {% include modals_es.html %}
-    {% include js_es.html %}
+    {% include es_footer.html %}
+    {% include es_modals.html %}
+    {% include es_js.html %}
 
     </body>
 </html>
