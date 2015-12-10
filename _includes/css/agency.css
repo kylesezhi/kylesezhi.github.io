@@ -883,3 +883,11 @@ body {
 #bs-example-navbar-collapse-1 > ul > li.dropdown > a {
     text-transform: capitalize;
 }
+
+div#bs-example-navbar-collapse-1 {
+    font-size: 13px;
+}
+
+ul.dropdown-menu {
+    font-size: 13px;
+}
