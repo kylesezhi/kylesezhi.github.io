@@ -899,6 +899,10 @@ ul.dropdown-menu {
     font-size: 13px;
 }
 
+#privacy > div > div > div.modal-header > button > span {
+    color: #000;
+}
+
 .dropdown-menu > li > label {
   display: block;
   padding: 3px 20px;
