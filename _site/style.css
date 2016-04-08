@@ -903,6 +903,23 @@ ul.dropdown-menu {
     color: #000;
 }
 
+#signature{
+  color:#000;
+  text-align:right;
+}
+
+.testimonial{
+  font-size:20px;
+  font-weight: 300;
+  line-height: 1.5;
+}
+
+.cite{
+  font-size:16px;
+  font-weight: 300;
+  line-height: 1.5;
+}
+
 .dropdown-menu > li > label {
   display: block;
   padding: 3px 20px;

@@ -895,3 +895,20 @@ ul.dropdown-menu {
 #privacy > div > div > div.modal-header > button > span {
     color: #000;
 }
+
+#signature{
+  color:#000;
+  text-align:right;
+}
+
+.testimonial{
+  font-size:20px;
+  font-weight: 300;
+  line-height: 1.5;
+}
+
+.cite{
+  font-size:16px;
+  font-weight: 300;
+  line-height: 1.5;
+}
