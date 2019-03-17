@@ -3,11 +3,15 @@
 ## Update
 1. If you need a new ruby, do: `rvm install [version number]`
 2. `xcode-select install`
-2. `bundle update`
-
+3. `bundle update`
 
 ## Serve locally
 - `bundle exec jekyll serve`
+
+## Publish
+1. `bundle exec jekyll build`
+2. Commit with git
+3. Push to Github
 
 ## Content locations
 
